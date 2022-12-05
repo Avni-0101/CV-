@@ -1,0 +1,42 @@
+
+/* selector {property: value;} */
+
+
+body {
+    background-color: #daf0ff;
+    font-family: cursive;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted #BCCEF8;
+    border-width: 5px;
+
+    width: 5%;
+}
+
+h1 {
+    color: #6598d3;
+}
+
+h2 {
+    color: #6598d3;
+}
+
+h3 {
+    color: #6598d3;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+A {
+    text-decoration: none;
+}
+
+A:hover {
+    background-color: white;
+    text-decoration: underline;
+}
